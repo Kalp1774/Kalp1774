@@ -120,28 +120,27 @@
 <text x="22" y="100" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">kalpmodi</text>
 <text x="22" y="138" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
 <text x="22" y="157" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff">└─$ id</text>
-<text x="22" y="176" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">uid=1337(kalpmodi) gid=1337(bugbounty) groups=31337(0day),999(cve-researcher)</text>
-<text x="22" y="214" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
-<text x="22" y="233" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff">└─$ cat /etc/kalpmodi/profile</text>
-<text x="22" y="252" font-family="'Courier New', Courier, monospace" font-size="13" fill="#007722">──────────────────────────────────────────────────────────</text>
-<text x="22" y="271" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  name     : Kalp Modi</text>
-<text x="22" y="290" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  role     : Offensive Security Researcher · Bug Bounty Hunter</text>
-<text x="22" y="309" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  location : India</text>
-<text x="22" y="328" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  focus    : Web · Cloud · OAuth/JWT · Race Conditions</text>
-<text x="22" y="366" font-family="'Courier New', Courier, monospace" font-size="13" fill="#007722">──────────────────────────────────────────────────────────</text>
-<text x="22" y="404" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
-<text x="22" y="423" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff">└─$ ls -la ~/projects/</text>
-<text x="22" y="442" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  akira/            [ AI pentest co-pilot · 12 skills · MIT ]</text>
-<text x="22" y="461" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  EvilTwin-ESP32/   [ hardware Wi-Fi spoofing demo · C++ ]</text>
-<text x="22" y="480" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  PostmapDB/        [ Shodan for Postman · in development ]</text>
-<text x="22" y="518" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
-<text x="22" y="537" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff">└─$ cat ~/skills.txt</text>
-<text x="22" y="556" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  web    :  XSS · SQLi · SSRF · SSTI · JWT confusion · OAuth</text>
-<text x="22" y="575" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  infra  :  AWS · GCP · Azure · K8s · BloodHound · DCSync</text>
-<text x="22" y="594" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  lang   :  Python · TypeScript · C++ · Shell</text>
-<text x="22" y="632" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
-<text x="22" y="651" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff" filter="url(#glow)">└─$ </text>
-<rect x="53.2" y="639" width="8" height="13" fill="#00FF41" filter="url(#glow)">
+<text x="22" y="195" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
+<text x="22" y="214" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff">└─$ cat /etc/kalpmodi/profile</text>
+<text x="22" y="233" font-family="'Courier New', Courier, monospace" font-size="13" fill="#007722">──────────────────────────────────────────────────────────</text>
+<text x="22" y="252" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  name     : Kalp Modi</text>
+<text x="22" y="271" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  role     : Offensive Security Researcher · Bug Bounty Hunter</text>
+<text x="22" y="290" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  location : India</text>
+<text x="22" y="309" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  focus    : Web · Cloud · OAuth/JWT · Race Conditions</text>
+<text x="22" y="328" font-family="'Courier New', Courier, monospace" font-size="13" fill="#007722">──────────────────────────────────────────────────────────</text>
+<text x="22" y="366" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
+<text x="22" y="385" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff">└─$ ls -la ~/projects/</text>
+<text x="22" y="404" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  akira/            [ AI pentest co-pilot · 12 skills · MIT ]</text>
+<text x="22" y="423" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  EvilTwin-ESP32/   [ hardware Wi-Fi spoofing demo · C++ ]</text>
+<text x="22" y="442" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  PostmapDB/        [ Shodan for Postman · in development ]</text>
+<text x="22" y="480" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
+<text x="22" y="499" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff">└─$ cat ~/skills.txt</text>
+<text x="22" y="518" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  web    :  XSS · SQLi · SSRF · SSTI · JWT confusion · OAuth</text>
+<text x="22" y="537" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  infra  :  AWS · GCP · Azure · K8s · BloodHound · DCSync</text>
+<text x="22" y="556" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00cc35">  lang   :  Python · TypeScript · C++ · Shell</text>
+<text x="22" y="594" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow2)" opacity="0.95">┌──(kalpmodi㉿kali)-[~]</text>
+<text x="22" y="613" font-family="'Courier New', Courier, monospace" font-size="13" fill="#ffffff" filter="url(#glow)">└─$ </text>
+<rect x="53.2" y="601" width="8" height="13" fill="#00FF41" filter="url(#glow)">
   <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
 </rect>
 </svg>
